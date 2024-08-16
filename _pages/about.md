@@ -2,24 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Simon Jonsson, and I currently work as a Software Tester in Southampton, UK.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My love for technology has been a constant thread throughout my life, guiding me even when my main occupations have taken me far from the keyboard. Since my early teens, when I began programming and had a summer job as a programmer, I've been fascinated by solving problems through code.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My academic journey has been as varied as my professional one, ranging from Psychology to Statistics and culminating in a PhD in Web Science from the University of Southampton. During my studies, I had the opportunity to combine my technical skills with a deep interest in human-computer interaction, resulting in the creation of Lengua Spanish, a language-learning app developed in native Android Java.
+
+Beyond the realm of technology, I've been fortunate enough to explore a wide range of occupations and experiences. Whether working on a fishing boat in Norway, teaching English in China, or sailing to the Caribbean, I have always sought out opportunities to learn and grow. These experiences, much like my eclectic academic pursuits, reflect my curiosity and belief in the value of embracing new challenges.
+
+With the emergence of DeFi and the growth of the Ethereum ecosystem, I've found myself increasingly drawn to the potential of blockchain technology. While this is a newer interest for me, it feels like a natural extension of my ongoing exploration.
+
