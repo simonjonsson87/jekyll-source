@@ -93,6 +93,6 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: _site
-          branch: master # or 'gh-pages' if your `simonjonsson87.github.io` repo uses that branch
+          branch: gh-pages # or 'gh-pages' if your `simonjonsson87.github.io` repo uses that branch
           repository-name: simonjonsson87/simonjonsson87.github.io
           token: ${{ secrets.DEPLOY_TOKEN }}
