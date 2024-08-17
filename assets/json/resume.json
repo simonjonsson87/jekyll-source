@@ -27,10 +27,9 @@
       "name": "Documation Software Ltd",
       "position": "Software Tester",
       "url": "",
-      "startDate": "2021-09-08",
+      "startDate": "2021 Sep",
       "endDate": "present",
-      "summary": "",
-      "highlights": [""]
+      "summary": ""
     },
     {
       "name": "Web Science Trust",
@@ -38,8 +37,7 @@
       "url": "https://webscience.org",
       "startDate": "2017 Dec",
       "endDate": "2021 Dec",
-      "summary": "",
-      "highlights": [""]
+      "summary": ""
     },
     {
       "name": "Ikea Southampton, UK",
@@ -47,8 +45,7 @@
       "url": "",
       "startDate": "2017 Jun",
       "endDate": "2021 Sep",
-      "summary": "",
-      "highlights": [""]
+      "summary": ""
     },
     {
       "name": "M/S Nesbakk AS, Ålesund, Norway",
@@ -56,8 +53,7 @@
       "url": "",
       "startDate": "2012 Aug",
       "endDate": "2016 Jun",
-      "summary": "",
-      "highlights": [""]
+      "summary": ""
     },
     {
       "name": "Lossekongane AS, Ålesund, Norway",
@@ -65,8 +61,7 @@
       "url": "",
       "startDate": "2011 Dec",
       "endDate": "2012 Jun",
-      "summary": "",
-      "highlights": [""]
+      "summary": ""
     },
     {
       "name": "English First, Xiamen, China",
@@ -74,17 +69,15 @@
       "url": "",
       "startDate": "2010 Oct",
       "endDate": "2011 Oct",
-      "summary": "",
-      "highlights": [""]
+      "summary": ""
     },
     {
       "name": "National Service in Swedish Army",
-      "position": "Airbourne Range",
+      "position": "Airbourne Ranger",
       "url": "",
       "startDate": "2006 Sep",
       "endDate": "2007 Jul",
-      "summary": "",
-      "highlights": [""]
+      "summary": ""
     },
     {
       "name": "Tectus Technology AB",
@@ -92,8 +85,8 @@
       "url": "",
       "startDate": "2004 Jun",
       "endDate": "2007 Jul",
-      "summary": "Summer work as a programmer. Notable projects were a database management software and a webserver software. Both written in VB6.",
-      "highlights": [""]
+      "summary": "Summer work as a programmer. Notable projects were a database management software and a webserver software. Both written in VB6."
+      
     }
     
     
@@ -108,8 +101,7 @@
       "studyType": "PhD",
       "startDate": "2018 Sep",
       "endDate": "2022 Sep",
-      "score": "",
-      "courses": [""]
+      "score": ""
     },
     {
       "institution": "University of Southampton",
@@ -119,8 +111,7 @@
       "studyType": "MSc",
       "startDate": "2017 Sep",
       "endDate": "2018 Jun",
-      "score": "",
-      "courses": [""]
+      "score": ""
     },
     {
       "institution": "University of Southampton",
@@ -130,8 +121,7 @@
       "studyType": "MSc",
       "startDate": "2016 Sep",
       "endDate": "2017 Jun",
-      "score": "",
-      "courses": [""]
+      "score": ""
     },
     {
       "institution": "Southampton Solent University",
@@ -141,8 +131,7 @@
       "studyType": "BSc",
       "startDate": "2007 Sep",
       "endDate": "2010 Jun",
-      "score": "",
-      "courses": [""]
+      "score": ""
     },
     {
       "institution": "Nösnäsgymnasiet",
@@ -152,14 +141,14 @@
       "studyType": "Upper Secondary School",
       "startDate": "2002 Sep",
       "endDate": "2005 Jun",
-      "score": "",
-      "courses": [""]
+      "score": ""
     }
   ],
   "awards": [
     {
-      "name": "Inducing Flow Experience in Mobile Learning: An Experiment Using a Spanish Learning Mobile Application",
-      "publisher": "ICALT 2020: XIV. International Conference on Advanced Learning Technologies",
+      "title": "Best Presentation Award",
+      "awarder": "ICALT 2020: XIV. International Conference on Advanced Learning Technologies",
+      "date": 2020,
       "url": "",
       "summary": "For my presentation titled 'Inducing Flow Experience in Mobile Learning: An Experiment Using a Spanish Learning Mobile Application'"
     }
