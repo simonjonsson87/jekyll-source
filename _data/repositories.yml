@@ -4,7 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - simonjonsson87/mystery-signals
   - simonjonsson87/TensorFlowPi
   - simonjonsson87/FrankieZero
-  - simonjonsson87/RPi-Timelapse
-  - simonjonsson87/Lengua
+  - simonjonsson87/RPi_Timelapse
